@@ -1,0 +1,916 @@
+{
+  "1935078122": {
+    "detectors": [
+      "e1det_-457344957#0_0",
+      "e1det_-232386629#13_0",
+      "e1det_279771733#1_0",
+      "e1det_232386629#12_0"
+    ],
+    "traffic_light": {
+      "type": "actuated",
+      "programID": "0",
+      "offset": 0.0,
+      "phases": [
+        {
+          "duration": 40.0,
+          "state": "GGggrrrrGGggrrrr",
+          "minDur": 10.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 5.0,
+          "state": "yyyyrrrryyyyrrrr",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 40.0,
+          "state": "rrrrGGggrrrrGGgg",
+          "minDur": 10.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 5.0,
+          "state": "rrrryyyyrrrryyyy",
+          "minDur": null,
+          "maxDur": null
+        }
+      ]
+    }
+  },
+  "2402915337": {
+    "detectors": [
+      "e1det_-232406107#0_0",
+      "e1det_259317430#9_0",
+      "e1det_457344957#3_0",
+      "e1det_-259317430#10_0"
+    ],
+    "traffic_light": {
+      "type": "actuated",
+      "programID": "0",
+      "offset": 0.0,
+      "phases": [
+        {
+          "duration": 40.0,
+          "state": "rrrrGGggrrrrGGgg",
+          "minDur": 10.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 5.0,
+          "state": "rrrryyyyrrrryyyy",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 40.0,
+          "state": "GGggrrrrGGggrrrr",
+          "minDur": 10.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 5.0,
+          "state": "yyyyrrrryyyyrrrr",
+          "minDur": null,
+          "maxDur": null
+        }
+      ]
+    }
+  },
+  "2887954186": {
+    "detectors": [
+      "e1det_-232386629#2_0",
+      "e1det_569338307#1_0",
+      "e1det_569338307#1_1",
+      "e1det_569338307#1_2",
+      "e1det_232386629#1_0"
+    ],
+    "traffic_light": {
+      "type": "actuated",
+      "programID": "0",
+      "offset": 0.0,
+      "phases": [
+        {
+          "duration": 39.0,
+          "state": "GGgrrrrrGgg",
+          "minDur": 10.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "yyyrrrrryyy",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 39.0,
+          "state": "rrrGGGGGrrr",
+          "minDur": 13.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "rrryyyyyrrr",
+          "minDur": null,
+          "maxDur": null
+        }
+      ]
+    }
+  },
+  "5475551102": {
+    "detectors": [
+      "e1det_527604145#24_0",
+      "e1det_527604145#24_1",
+      "e1det_527604145#24_2",
+      "e1det_-232386629#1_0",
+      "e1det_232386629#0_0"
+    ],
+    "traffic_light": {
+      "type": "actuated",
+      "programID": "0",
+      "offset": 0.0,
+      "phases": [
+        {
+          "duration": 24.0,
+          "state": "GrrrrrrrrrGGGg",
+          "minDur": 10.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "yrrrrrrrrryyyy",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 24.0,
+          "state": "GGGGGGrrrrrrrr",
+          "minDur": 13.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "yyyyyyrrrrrrrr",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 24.0,
+          "state": "rrrrrrGGGGrrrr",
+          "minDur": 10.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "rrrrrryyyyrrrr",
+          "minDur": null,
+          "maxDur": null
+        }
+      ]
+    }
+  },
+  "cluster_1493186253_2687328225_7172182720_7172182797": {
+    "detectors": [
+      "e1det_334971324#9_0",
+      "e1det_334971324#9_1",
+      "e1det_334971324#9_2",
+      "e1det_334971324#9_3",
+      "e1det_768157906#10_0",
+      "e1det_768157906#10_1",
+      "e1det_268840712#2_0",
+      "e1det_268840712#2_1",
+      "e1det_289320378#2_0",
+      "e1det_289320378#2_1"
+    ],
+    "traffic_light": {
+      "type": "actuated",
+      "programID": "0",
+      "offset": 0.0,
+      "phases": [
+        {
+          "duration": 39.0,
+          "state": "GGGGGggrrrrrGGGggrrrrr",
+          "minDur": 13.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "yyyyyyyrrrrryyyyyrrrrr",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 39.0,
+          "state": "rrrrrrrGGGggrrrrrGGGgg",
+          "minDur": 10.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "rrrrrrryyyyyrrrrryyyyy",
+          "minDur": null,
+          "maxDur": null
+        }
+      ]
+    }
+  },
+  "cluster_1928057409_5128988626_5128988643_5128988694": {
+    "detectors": [
+      "e1det_527604145#14_0",
+      "e1det_527604145#14_1",
+      "e1det_527604145#14_2",
+      "e1det_527604149#21_0",
+      "e1det_527604149#21_1",
+      "e1det_527604149#21_2",
+      "e1det_569338307#9_0",
+      "e1det_569338307#9_1",
+      "e1det_569338307#9_2",
+      "e1det_182451957#0_0",
+      "e1det_182451957#0_1",
+      "e1det_182451957#0_2"
+    ],
+    "traffic_light": {
+      "type": "actuated",
+      "programID": "0",
+      "offset": 0.0,
+      "phases": [
+        {
+          "duration": 39.0,
+          "state": "rrrrrrGGGGggrrrrrrGGGGgg",
+          "minDur": 13.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "rrrrrryyyyyyrrrrrryyyyyy",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 39.0,
+          "state": "GGGGggrrrrrrGGGGggrrrrrr",
+          "minDur": 13.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "yyyyyyrrrrrryyyyyyrrrrrr",
+          "minDur": null,
+          "maxDur": null
+        }
+      ]
+    }
+  },
+  "cluster_1928080310_5128988621_5128988623_7172182663": {
+    "detectors": [
+      "e1det_337335327#4_0",
+      "e1det_768157900#2_0",
+      "e1det_768157900#2_1",
+      "e1det_463727048#5_0",
+      "e1det_463727048#5_1",
+      "e1det_463727048#5_2",
+      "e1det_289320392#3_0",
+      "e1det_289320392#3_1"
+    ],
+    "traffic_light": {
+      "type": "actuated",
+      "programID": "0",
+      "offset": 0.0,
+      "phases": [
+        {
+          "duration": 39.0,
+          "state": "GGggrrrrrGGGGGggrrrrr",
+          "minDur": 13.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "yyyyrrrrryyyyyyyrrrrr",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 39.0,
+          "state": "rrrrGGGggrrrrrrrGGGgg",
+          "minDur": 10.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "rrrryyyyyrrrrrrryyyyy",
+          "minDur": null,
+          "maxDur": null
+        }
+      ]
+    }
+  },
+  "cluster_1928080320_5128988517_5128988518_5128988644": {
+    "detectors": [
+      "e1det_527604145#16_0",
+      "e1det_527604145#16_1",
+      "e1det_527604145#16_2",
+      "e1det_527604137#1_0",
+      "e1det_527604137#1_1",
+      "e1det_569338307#7_0",
+      "e1det_569338307#7_1",
+      "e1det_569338307#7_2",
+      "e1det_289320392#1_0",
+      "e1det_289320392#1_1"
+    ],
+    "traffic_light": {
+      "type": "actuated",
+      "programID": "0",
+      "offset": 0.0,
+      "phases": [
+        {
+          "duration": 39.0,
+          "state": "GGGGggrrrrrGGGGggrrrrr",
+          "minDur": 13.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "yyyyyyrrrrryyyyyyrrrrr",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 39.0,
+          "state": "rrrrrrGGGggrrrrrrGGGgg",
+          "minDur": 10.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "rrrrrryyyyyrrrrrryyyyy",
+          "minDur": null,
+          "maxDur": null
+        }
+      ]
+    }
+  },
+  "cluster_1928080330_5128988682": {
+    "detectors": [
+      "e1det_-232406107#8_0",
+      "e1det_527604149#11_0",
+      "e1det_527604149#11_1",
+      "e1det_527604149#11_2",
+      "e1det_232406107#6_0",
+      "e1det_182451957#10_0",
+      "e1det_182451957#10_1",
+      "e1det_182451957#10_2"
+    ],
+    "traffic_light": {
+      "type": "actuated",
+      "programID": "0",
+      "offset": 0.0,
+      "phases": [
+        {
+          "duration": 39.0,
+          "state": "rrrrGGGGggrrrrGGGGgg",
+          "minDur": 13.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "rrrryyyyyyrrrryyyyyy",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 39.0,
+          "state": "GGggrrrrrrGGggrrrrrr",
+          "minDur": 5.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "yyyyrrrrrryyyyrrrrrr",
+          "minDur": null,
+          "maxDur": null
+        }
+      ]
+    }
+  },
+  "cluster_1928080332_4540069986_5128988689_5128988690": {
+    "detectors": [
+      "e1det_337335327#2_0",
+      "e1det_527604149#17_0",
+      "e1det_527604149#17_1",
+      "e1det_527604149#17_2",
+      "e1det_418051108#1_0",
+      "e1det_418051108#1_1",
+      "e1det_418051108#1_2",
+      "e1det_418051108#1_3",
+      "e1det_182451957#4_0",
+      "e1det_182451957#4_1",
+      "e1det_182451957#4_2"
+    ],
+    "traffic_light": {
+      "type": "actuated",
+      "programID": "0",
+      "offset": 0.0,
+      "phases": [
+        {
+          "duration": 39.0,
+          "state": "GGggrrrrrrGGGGGggrrrrrr",
+          "minDur": 13.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "yyyyrrrrrryyyyyyyrrrrrr",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 39.0,
+          "state": "rrrrGGGGggrrrrrrrGGGGgg",
+          "minDur": 13.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "rrrryyyyyyrrrrrrryyyyyy",
+          "minDur": null,
+          "maxDur": null
+        }
+      ]
+    }
+  },
+  "cluster_1928080334_2687328260_5128988656_5128988685": {
+    "detectors": [
+      "e1det_334971324#3_0",
+      "e1det_334971324#3_1",
+      "e1det_334971324#3_2",
+      "e1det_334971324#3_3",
+      "e1det_527604149#13_0",
+      "e1det_527604149#13_1",
+      "e1det_527604149#13_2",
+      "e1det_463727046#1_0",
+      "e1det_463727046#1_1",
+      "e1det_182451957#7_0",
+      "e1det_182451957#7_1",
+      "e1det_182451957#7_2"
+    ],
+    "traffic_light": {
+      "type": "actuated",
+      "programID": "0",
+      "offset": 0.0,
+      "phases": [
+        {
+          "duration": 39.0,
+          "state": "GGGGGggrrrrrrGGGggrrrrrr",
+          "minDur": 13.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "yyyyyyyrrrrrryyyyyrrrrrr",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 39.0,
+          "state": "rrrrrrrGGGGggrrrrrGGGGgg",
+          "minDur": 13.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "rrrrrrryyyyyyrrrrryyyyyy",
+          "minDur": null,
+          "maxDur": null
+        }
+      ]
+    }
+  },
+  "cluster_2402915267_2402915285": {
+    "detectors": [
+      "e1det_334971324#8_0",
+      "e1det_334971324#8_1",
+      "e1det_334971324#8_2",
+      "e1det_334971324#8_3",
+      "e1det_259317430#11_0",
+      "e1det_268840712#4_0",
+      "e1det_268840712#4_1",
+      "e1det_-255201484#1_0"
+    ],
+    "traffic_light": {
+      "type": "actuated",
+      "programID": "0",
+      "offset": 0.0,
+      "phases": [
+        {
+          "duration": 39.0,
+          "state": "GGGGGggrrrrGGGggrrrr",
+          "minDur": 13.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "yyyyyyyrrrryyyyyrrrr",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 39.0,
+          "state": "rrrrrrrGGggrrrrrGGgg",
+          "minDur": 10.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "rrrrrrryyyyrrrrryyyy",
+          "minDur": null,
+          "maxDur": null
+        }
+      ]
+    }
+  },
+  "cluster_2402915294_4540069984": {
+    "detectors": [
+      "e1det_337335327#7_0",
+      "e1det_255201484#3_0",
+      "e1det_463727048#4_0",
+      "e1det_463727048#4_1",
+      "e1det_463727048#4_2",
+      "e1det_-255201484#5_0"
+    ],
+    "traffic_light": {
+      "type": "actuated",
+      "programID": "0",
+      "offset": 0.0,
+      "phases": [
+        {
+          "duration": 39.0,
+          "state": "GGggrrrrGGGGggrrrr",
+          "minDur": 13.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "yyyyrrrryyyyyyrrrr",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 39.0,
+          "state": "rrrrGGggrrrrrrGGgg",
+          "minDur": 10.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "rrrryyyyrrrrrryyyy",
+          "minDur": null,
+          "maxDur": null
+        }
+      ]
+    }
+  },
+  "cluster_2402915318_2640751968_7172170106_7172182722": {
+    "detectors": [
+      "e1det_334971324#6_0",
+      "e1det_334971324#6_1",
+      "e1det_334971324#6_2",
+      "e1det_334971324#6_3",
+      "e1det_768157882#12_0",
+      "e1det_768157882#12_1",
+      "e1det_268840712#7_0",
+      "e1det_268840712#7_1",
+      "e1det_463727047#2_0",
+      "e1det_463727047#2_1"
+    ],
+    "traffic_light": {
+      "type": "actuated",
+      "programID": "0",
+      "offset": 0.0,
+      "phases": [
+        {
+          "duration": 39.0,
+          "state": "GGGGGggrrrrrGGGggrrrrr",
+          "minDur": 13.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "yyyyyyyrrrrryyyyyrrrrr",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 39.0,
+          "state": "rrrrrrrGGGggrrrrrGGGgg",
+          "minDur": 10.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "rrrrrrryyyyyrrrrryyyyy",
+          "minDur": null,
+          "maxDur": null
+        }
+      ]
+    }
+  },
+  "cluster_2402915339_5128988647": {
+    "detectors": [
+      "e1det_527604145#19_0",
+      "e1det_527604145#19_1",
+      "e1det_527604145#19_2",
+      "e1det_255201484#7_0",
+      "e1det_569338307#5_0",
+      "e1det_569338307#5_1",
+      "e1det_569338307#5_2",
+      "e1det_-255201484#9_0"
+    ],
+    "traffic_light": {
+      "type": "actuated",
+      "programID": "0",
+      "offset": 0.0,
+      "phases": [
+        {
+          "duration": 39.0,
+          "state": "GGGGggrrrrGGGGggrrrr",
+          "minDur": 13.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "yyyyyyrrrryyyyyyrrrr",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 39.0,
+          "state": "rrrrrrGGggrrrrrrGGgg",
+          "minDur": 10.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "rrrrrryyyyrrrrrryyyy",
+          "minDur": null,
+          "maxDur": null
+        }
+      ]
+    }
+  },
+  "cluster_2407363300_2687328249": {
+    "detectors": [
+      "e1det_334971324#11_0",
+      "e1det_334971324#11_1",
+      "e1det_334971324#11_2",
+      "e1det_334971324#11_3",
+      "e1det_-232386629#10_0",
+      "e1det_268840712#1_0",
+      "e1det_268840712#1_1",
+      "e1det_232386629#8_0"
+    ],
+    "traffic_light": {
+      "type": "actuated",
+      "programID": "0",
+      "offset": 0.0,
+      "phases": [
+        {
+          "duration": 39.0,
+          "state": "GGGGGggrrrrGGGggrrrr",
+          "minDur": 13.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "yyyyyyyrrrryyyyyrrrr",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 39.0,
+          "state": "rrrrrrrGGggrrrrrGGgg",
+          "minDur": 10.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "rrrrrrryyyyrrrrryyyy",
+          "minDur": null,
+          "maxDur": null
+        }
+      ]
+    }
+  },
+  "cluster_2407573771_7172182729": {
+    "detectors": [
+      "e1det_-232406107#3_0",
+      "e1det_768157882#9_0",
+      "e1det_768157882#9_1",
+      "e1det_232406107#1_0",
+      "e1det_52244438#3_0",
+      "e1det_52244438#3_1"
+    ],
+    "traffic_light": {
+      "type": "actuated",
+      "programID": "0",
+      "offset": 0.0,
+      "phases": [
+        {
+          "duration": 40.0,
+          "state": "rrrrGGGggrrrrGGGgg",
+          "minDur": 10.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 5.0,
+          "state": "rrrryyyyyrrrryyyyy",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 40.0,
+          "state": "GGggrrrrrGGggrrrrr",
+          "minDur": 5.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 5.0,
+          "state": "yyyyrrrrryyyyrrrrr",
+          "minDur": null,
+          "maxDur": null
+        }
+      ]
+    }
+  },
+  "cluster_2887954178_4540069981": {
+    "detectors": [
+      "e1det_457950331#0_0",
+      "e1det_457950331#0_1",
+      "e1det_457950331#0_2",
+      "e1det_-232386629#5_0",
+      "e1det_463727048#0_0",
+      "e1det_463727048#0_1",
+      "e1det_463727048#0_2",
+      "e1det_232386629#3_0"
+    ],
+    "traffic_light": {
+      "type": "actuated",
+      "programID": "0",
+      "offset": 0.0,
+      "phases": [
+        {
+          "duration": 39.0,
+          "state": "GGGGggrrrrGGGGggrrrr",
+          "minDur": 13.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "yyyyyyrrrryyyyyyrrrr",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 39.0,
+          "state": "rrrrrrGGggrrrrrrGGgg",
+          "minDur": 10.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "rrrrrryyyyrrrrrryyyy",
+          "minDur": null,
+          "maxDur": null
+        }
+      ]
+    }
+  },
+  "cluster_3444336186_4540069982_7172182766_7172182848": {
+    "detectors": [
+      "e1det_337335327#10_0",
+      "e1det_768157916#2_0",
+      "e1det_768157916#2_1",
+      "e1det_463727048#1_0",
+      "e1det_463727048#1_1",
+      "e1det_463727048#1_2",
+      "e1det_337335325#2_0",
+      "e1det_337335325#2_1"
+    ],
+    "traffic_light": {
+      "type": "actuated",
+      "programID": "0",
+      "offset": 0.0,
+      "phases": [
+        {
+          "duration": 39.0,
+          "state": "GGGGggrrrrrGGGGggrrrrr",
+          "minDur": 13.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "yyyyyyrrrrryyyyyyrrrrr",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 39.0,
+          "state": "rrrrrrGGGggrrrrrrGGGgg",
+          "minDur": 10.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "rrrrrryyyyyrrrrrryyyyy",
+          "minDur": null,
+          "maxDur": null
+        }
+      ]
+    }
+  },
+  "cluster_4028113735_5128988650_7172170125_7172170173": {
+    "detectors": [
+      "e1det_527604145#22_0",
+      "e1det_527604145#22_1",
+      "e1det_527604145#22_2",
+      "e1det_768157896#3_0",
+      "e1det_768157896#3_1",
+      "e1det_569338307#2_0",
+      "e1det_569338307#2_1",
+      "e1det_569338307#2_2",
+      "e1det_337335325#0_0",
+      "e1det_337335325#0_1"
+    ],
+    "traffic_light": {
+      "type": "actuated",
+      "programID": "0",
+      "offset": 0.0,
+      "phases": [
+        {
+          "duration": 39.0,
+          "state": "GGGGggrrrrrGGGGggrrrrr",
+          "minDur": 13.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "yyyyyyrrrrryyyyyyrrrrr",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 39.0,
+          "state": "rrrrrrGGGggrrrrrrGGGgg",
+          "minDur": 10.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 6.0,
+          "state": "rrrrrryyyyyrrrrrryyyyy",
+          "minDur": null,
+          "maxDur": null
+        }
+      ]
+    }
+  },
+  "cluster_6558535070_7172182839": {
+    "detectors": [
+      "e1det_-457344957#2_0",
+      "e1det_768157906#8_0",
+      "e1det_768157906#8_1",
+      "e1det_457344957#0_0",
+      "e1det_332097513#0_0",
+      "e1det_332097513#0_1"
+    ],
+    "traffic_light": {
+      "type": "actuated",
+      "programID": "0",
+      "offset": 0.0,
+      "phases": [
+        {
+          "duration": 40.0,
+          "state": "rrrrGGGggrrrrGGGgg",
+          "minDur": 10.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 5.0,
+          "state": "rrrryyyyyrrrryyyyy",
+          "minDur": null,
+          "maxDur": null
+        },
+        {
+          "duration": 40.0,
+          "state": "GGggrrrrrGGggrrrrr",
+          "minDur": 10.0,
+          "maxDur": 50.0
+        },
+        {
+          "duration": 5.0,
+          "state": "yyyyrrrrryyyyrrrrr",
+          "minDur": null,
+          "maxDur": null
+        }
+      ]
+    }
+  }
+}

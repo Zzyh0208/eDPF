@@ -1,0 +1,84 @@
+{
+  "top_k_detectors": [
+    {
+      "detector_id": "e1det_463727047#2_0",
+      "anomaly_score": 6.700888894920286
+    },
+    {
+      "detector_id": "e1det_569338307#2_0",
+      "anomaly_score": 5.828480740521801
+    },
+    {
+      "detector_id": "e1det_337335325#2_1",
+      "anomaly_score": 2.8886655587522667
+    },
+    {
+      "detector_id": "e1det_232406107#6_0",
+      "anomaly_score": 2.56068900994558
+    },
+    {
+      "detector_id": "e1det_-232406107#3_0",
+      "anomaly_score": 2.4639358415038237
+    },
+    {
+      "detector_id": "e1det_527604149#11_2",
+      "anomaly_score": 2.2636918196655076
+    },
+    {
+      "detector_id": "e1det_268840712#7_0",
+      "anomaly_score": 2.193297656442576
+    },
+    {
+      "detector_id": "e1det_463727048#1_2",
+      "anomaly_score": 1.6624157627291707
+    },
+    {
+      "detector_id": "e1det_-232406107#8_0",
+      "anomaly_score": 1.6062738739405353
+    },
+    {
+      "detector_id": "e1det_259317430#9_0",
+      "anomaly_score": 1.402073029610599
+    },
+    {
+      "detector_id": "e1det_268840712#4_1",
+      "anomaly_score": 1.2190218926235166
+    },
+    {
+      "detector_id": "e1det_527604149#13_0",
+      "anomaly_score": 1.1925497039773383
+    },
+    {
+      "detector_id": "e1det_332097513#0_0",
+      "anomaly_score": 1.1827720563573036
+    },
+    {
+      "detector_id": "e1det_768157882#9_1",
+      "anomaly_score": 1.1588937010386124
+    },
+    {
+      "detector_id": "e1det_334971324#11_0",
+      "anomaly_score": 1.1234105301447923
+    },
+    {
+      "detector_id": "e1det_182451957#7_1",
+      "anomaly_score": 1.1138527647134813
+    },
+    {
+      "detector_id": "e1det_289320378#2_1",
+      "anomaly_score": 1.0908747864850912
+    },
+    {
+      "detector_id": "e1det_527604149#11_1",
+      "anomaly_score": 1.0440306031913653
+    },
+    {
+      "detector_id": "e1det_337335327#7_0",
+      "anomaly_score": 1.034438136257902
+    },
+    {
+      "detector_id": "e1det_255201484#3_0",
+      "anomaly_score": 1.0126141272189064
+    }
+  ]
+}
