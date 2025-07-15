@@ -16,8 +16,6 @@ This project aims to provide a **high-fidelity urban traffic simulation platform
 *   **eDPF Anomaly Detection**: Employs phase-aware robust statistical methods (like median and MAD) to compute an "anomalousness index" for each sensor, then filters to select the Top-K sensors with the highest scores for subsequent analysis.
 *   **Multi-Algorithm Data Preparation**: Provides data conversion scripts to process SUMO's XML output into input formats suitable for Granger Causality (`statsmodels`), PC Algorithm (`pcalg-py`), DyCause, and TCDF.
 
-![Simulation and eDPF Workflow Diagram](readmeimages/pipeline_diagram.png)
-
 ## Installation
 
 ### Prerequisites
@@ -34,12 +32,6 @@ This project relies on several Python libraries. First, ensure SUMO is installed
 
 ```bash
 pip install -r requirements.txt
-```
-
-**To install `pcalg-py`**:
-
-```bash
-pip install git+https://github.com/Renovamen/pcalg-py.git
 ```
 
 ## Usage
@@ -100,12 +92,10 @@ Use the data prepared by the above scripts to run your chosen root-cause localiz
 
 *   **Granger Causality (GC)**:
     *   **Library**: `statsmodels`
-    *   **Git Repo/Docs**: [statsmodels TSA Granger Causality Tests](https://www.statsmodels.org/stable/generated/statsmodels.tsa.stattools.grangercausalitytests.html)
-    *   **Example Usage**: (Refer to the previously provided Python code examples)
+    *   **Docs**: [statsmodels TSA Granger Causality Tests](https://www.statsmodels.org/stable/generated/statsmodels.tsa.stattools.grangercausalitytests.html)
 *   **PC Algorithm**:
     *   **Library**: `pcalg-py`
     *   **Git Repo**: [https://github.com/Renovamen/pcalg-py](https://github.com/Renovamen/pcalg-py)
-    *   **Example Usage**: (Refer to the previously provided Python code examples)
 *   **DyCause**:
     *   **Git Repo**: https://github.com/PanYicheng/dycause_rca.git
 *   **TCDF**:
