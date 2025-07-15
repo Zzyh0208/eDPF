@@ -1,14 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
-    <serverData>
-      <paths name="root@zyh:22">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-    </serverData>
-  </component>
-</project>
+version https://git-lfs.github.com/spec/v1
+oid sha256:e983d0e6e189a3d75f1b1f291c27a42c6ed35178626efdc6b5301ca84aaa50bf
+size 411
